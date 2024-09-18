@@ -22,9 +22,6 @@ Checked out on Monday at 17:00:00 with plan: End Work (2024-09-18)
 Run locally:
 python run.py
 
-Running in Development Mode
-Install the development dependencies:
-
 Running in development mode:
 Install developmental dependencies:
 pip install briefcase toga
